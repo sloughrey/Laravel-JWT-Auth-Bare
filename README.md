@@ -19,4 +19,4 @@ This will allow you to get up and running with a barebones API.
 4) `php artisan jwt:secret`
    - Initializes the JWT secret key
 
-##### Note: See [https://jwt-auth.readthedocs.io/en/develop/laravel-installation/](https://jwt-auth.readthedocs.io/en/develop/laravel-installation/) for more info regarding the JWT Auth package
+##### Note: See [https://jwt-auth.readthedocs.io/en/develop/laravel-installation/](https://jwt-auth.readthedocs.io/en/develop/laravel-installation/) for more info regarding installing/configuring the JWT Auth package
